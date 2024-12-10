@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iammdfaz" target="blank"><img src="https://img.shields.io/twitter/follow/iammdfaz?logo=twitter&style=for-the-badge" alt="iammdfaz" /></a> </p>
 
-- 🔭 I’m currently working on Web Application and Mobile Application **The Caring Souls**
+- 🔭 I’m currently working on Web Application and Mobile Application for **The Caring Souls**
 
 - 🌱 I’m currently learning **MERN Stack Development and Flutter Development**
 
